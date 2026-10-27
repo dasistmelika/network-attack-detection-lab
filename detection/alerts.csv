@@ -1,0 +1,4 @@
+timestamp,attack_type,src_ip,dst_ip,severity,mitre_id,details
+2026-10-27 07:33:41,Port Scan,192.168.222.130,192.168.222.128,Medium,T1046,65535 distinct ports probed
+Oct 27 07:26:30,SSH Brute-force,192.168.222.130,192.168.222.128,High,T1110,4 failed login attempts
+2026-10-27 11:51:25,ARP Spoofing,192.168.222.128,192.168.222.128,High,T1557,MAC changed from 00:0c:29:b1:45:82 to 00:0c:29:41:30:3e
